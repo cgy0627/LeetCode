@@ -7,15 +7,3 @@ class Solution(object):
             else:
                 return ans
         return ans
-        
-#         num = 1
-#         arr_set = set(arr)
-#         total = len(arr)
-        
-#         while True:
-#             arr_set -= {num}
-#             if total == len(arr_set):   # doesn't exist
-#                 k -= 1
-#             if k == 0:
-#                 return num
-#             num += 1
