@@ -3,12 +3,10 @@ class Solution:
                     
         def num_base(num, base):
             ans = ''
-            d, m = divmod(num, base)
-            return '100'
-            while d:
+            
+            while num:
+                num, m = divmod(num, base)
                 ans = str(m) + ans
-                
-                d, m = divmod(d, base)
 
             return ans
 
