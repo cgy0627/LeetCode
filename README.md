@@ -21,4 +21,9 @@ Coding-⭐
 |  |
 | ------- |
 | [0747-min-cost-climbing-stairs](https://github.com/cgy0627/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/cgy0627/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/cgy0627/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 <!---LeetCode Topics End-->
